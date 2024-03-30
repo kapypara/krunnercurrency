@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=krunnercurrency
+Comment=krunnercurrency Runner written in Python
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=view-currency-list
+X-KDE-PluginInfo-Author=kapypara
+X-KDE-PluginInfo-Email=kapy@badinfo.xyz
+X-KDE-PluginInfo-Name=krunnercurrency
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=org.kde.krunnercurrency
+X-Plasma-DBusRunner-Path=/krunnercurrency

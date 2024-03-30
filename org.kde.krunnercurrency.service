@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.kde.krunnercurrency
+Exec=/usr/bin/python3 "/home/moon/Projects/python/krunnercurrency/krunnercurrency.py"
